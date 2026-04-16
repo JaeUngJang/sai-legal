@@ -32,4 +32,4 @@ We occasionally update our personas. If one you were using is no longer availabl
 
 ---
 
-[Home](index.html) · [Privacy Policy](privacy.md) · [Terms of Use](terms.md)
+[Home](./) · [Privacy Policy](privacy.md) · [Terms of Use](terms.md)
