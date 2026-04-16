@@ -373,6 +373,6 @@ In order to resolve a complaint regarding the Services or to receive further inf
 
 South Korea
 
-Phone: ([saikoreans.support@gmail.com](mailto:saikoreans.support@gmail.com)
+[saikoreans.support@gmail.com](mailto:saikoreans.support@gmail.com)
 
 

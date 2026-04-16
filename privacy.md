@@ -461,9 +461,9 @@ If you are unsatisfied with the manner in which we address any complaint with re
 
 [The Information Regulator (South Africa)](https://inforegulator.org.za/)
 
-General enquiries: [saikoreans.support@gmail.com](mailto:saikoreans.support@gmail.com)
+General enquiries: [enquiries@inforegulator.org.za](mailto:enquiries@inforegulator.org.za)
 
-Complaints (complete POPIA/PAIA form 5): [saikoreans.support@gmail.com](mailto:saikoreans.support@gmail.com) & [saikoreans.support@gmail.com](mailto:saikoreans.support@gmail.com)
+Complaints (complete POPIA/PAIA form 5): [PAIAComplaints@inforegulator.org.za](mailto:PAIAComplaints@inforegulator.org.za) & [POPIAComplaints@inforegulator.org.za](mailto:POPIAComplaints@inforegulator.org.za)
 
 ## 15\. DO WE MAKE UPDATES TO THIS NOTICE?
 
