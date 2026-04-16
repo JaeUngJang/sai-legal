@@ -6,7 +6,7 @@ title: Support
 
 We're a small team. We read every message and typically respond within 48 hours.
 
-**Email:** [{CONTACT_EMAIL}](mailto:{CONTACT_EMAIL})
+**Email:** [saikoreans.support@gmail.com](mailto:saikoreans.support@gmail.com)
 
 ## Frequently Asked Questions
 

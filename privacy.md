@@ -12,7 +12,7 @@ This Privacy Notice for unglazed ("**we** ," "**us** ," or "**our** "), describe
 
   * Engage with us in other related ways, including any marketing or events
 
-**Questions or concerns?** Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at [{CONTACT_EMAIL}](mailto:{CONTACT_EMAIL}).
+**Questions or concerns?** Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at [saikoreans.support@gmail.com](mailto:saikoreans.support@gmail.com).
 
 ## SUMMARY OF KEY POINTS
 
@@ -32,7 +32,7 @@ This Privacy Notice for unglazed ("**we** ," "**us** ," or "**our** "), describe
 
 **What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about your privacy rights.
 
-**How do you exercise your rights?** The easiest way to exercise your rights is by submitting a [data subject access request](https://app.termly.io/dsar/f5776116-9b9a-421f-bbaf-0e4d26ac2cd5), or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+**How do you exercise your rights?** The easiest way to exercise your rights is by submitting a data subject access request, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
 Want to learn more about what we do with any information we collect? Review the Privacy Notice in full.
 
@@ -310,7 +310,7 @@ However, please note that this will not affect the lawfulness of the processing 
 
 Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements.
 
-If you have questions or comments about your privacy rights, you may email us at [{CONTACT_EMAIL}](mailto:{CONTACT_EMAIL}).
+If you have questions or comments about your privacy rights, you may email us at [saikoreans.support@gmail.com](mailto:saikoreans.support@gmail.com).
 
 ## 12\. CONTROLS FOR DO-NOT-TRACK FEATURES
 
@@ -326,73 +326,33 @@ _In Short:_**_If you are a resident of California, Colorado, Connecticut, Delawa
 
 ** The table below shows the categories of personal information we have collected in the past twelve (12) months. The table includes illustrative examples of each category and does not reflect the personal information we collect from you. For a comprehensive inventory of all personal information we process, please refer to the section "WHAT INFORMATION DO WE COLLECT?"
 
-**Category**| **Examples**| **Collected**  
----|---|---  
-A. Identifiers| Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name|   
-YES  
-
-B. Personal information as defined in the California Customer Records statute| Name, contact information, education, employment, employment history, and financial information|   
-YES  
-
----|---|---  
-
-C. Protected classification characteristics under state or federal law| Gender, age, date of birth, race and ethnicity, national origin, marital status, and other demographic data|   
-YES  
-
----|---|---  
-D. Commercial information| Transaction information, purchase history, financial details, and payment information|   
-YES  
-
-E. Biometric information| Fingerprints and voiceprints|   
-YES  
-
-F. Internet or other similar network activity| Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements|   
-YES  
-
-G. Geolocation data| Device location|   
-YES  
-
-H. Audio, electronic, sensory, or similar information| Images and audio, video or call recordings created in connection with our business activities|   
-YES  
-
-I. Professional or employment-related information| Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us|   
-NO  
-
-J. Education Information| Student records and directory information|   
-NO  
-
-K. Inferences drawn from collected personal information| Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics|   
-YES  
-
-L. Sensitive personal Information| |   
-NO  
-
+| Category | Examples | Collected |
+|----------|----------|-----------|
+| A. Identifiers | Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name | YES |
+| B. Personal information as defined in the California Customer Records statute | Name, contact information, education, employment, employment history, and financial information | YES |
+| C. Protected classification characteristics under state or federal law | Gender, age, date of birth, race and ethnicity, national origin, marital status, and other demographic data | YES |
+| D. Commercial information | Transaction information, purchase history, financial details, and payment information | YES |
+| E. Biometric information | Fingerprints and voiceprints | YES |
+| F. Internet or other similar network activity | Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements | YES |
+| G. Geolocation data | Device location | YES |
+| H. Audio, electronic, sensory, or similar information | Images and audio, video or call recordings created in connection with our business activities | YES |
+| I. Professional or employment-related information | Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us | NO |
+| J. Education Information | Student records and directory information | NO |
+| K. Inferences drawn from collected personal information | Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics | YES |
+| L. Sensitive personal Information |  | NO |
 We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
-
   * Receiving help through our customer support channels;
-
   * Participation in customer surveys or contests; and
-
   * Facilitation in the delivery of our Services and to respond to your inquiries.
-
 We will use and retain the collected personal information as needed to provide the Services or for:
-
   * Category A - As long as the user has an account with us
-
   * Category B - As long as the user has an account with us
-
   * Category C - As long as the user has an account with us
-
   * Category D - As long as the user has an account with us
-
   * Category E - As long as the user has an account with us
-
   * Category F - As long as the user has an account with us
-
   * Category G - As long as the user has an account with us
-
   * Category H - As long as the user has an account with us
-
   * Category K - As long as the user has an account with us
 
 ### Sources of Personal Information
@@ -451,7 +411,7 @@ Depending upon the state where you live, you may also have the following rights:
 
 ### How to Exercise Your Rights
 
-** To exercise these rights, you can contact us by submitting a [data subject access request](https://app.termly.io/dsar/f5776116-9b9a-421f-bbaf-0e4d26ac2cd5), by emailing us at [{CONTACT_EMAIL}](mailto:{CONTACT_EMAIL}), or by referring to the contact details at the bottom of this document.
+** To exercise these rights, you can contact us by submitting a data subject access request, by emailing us at [saikoreans.support@gmail.com](mailto:saikoreans.support@gmail.com), or by referring to the contact details at the bottom of this document.
 
 Under certain US state data protection laws, you can designate an authorized agent to make a request on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with applicable laws.   
 
@@ -463,7 +423,7 @@ If you submit the request through an authorized agent, we may need to collect ad
 
 ### Appeals
 
-** Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at [{CONTACT_EMAIL}](mailto:{CONTACT_EMAIL}). We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.**
+** Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at [saikoreans.support@gmail.com](mailto:saikoreans.support@gmail.com). We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.**
 
 ### California "Shine The Light" Law
 
@@ -501,9 +461,9 @@ If you are unsatisfied with the manner in which we address any complaint with re
 
 [The Information Regulator (South Africa)](https://inforegulator.org.za/)
 
-General enquiries: [{CONTACT_EMAIL}](mailto:{CONTACT_EMAIL})
+General enquiries: [saikoreans.support@gmail.com](mailto:saikoreans.support@gmail.com)
 
-Complaints (complete POPIA/PAIA form 5): [{CONTACT_EMAIL}](mailto:{CONTACT_EMAIL}) & [{CONTACT_EMAIL}](mailto:{CONTACT_EMAIL})
+Complaints (complete POPIA/PAIA form 5): [saikoreans.support@gmail.com](mailto:saikoreans.support@gmail.com) & [saikoreans.support@gmail.com](mailto:saikoreans.support@gmail.com)
 
 ## 15\. DO WE MAKE UPDATES TO THIS NOTICE?
 
@@ -513,7 +473,7 @@ We may update this Privacy Notice from time to time. The updated version will be
 
 ## 16\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-** If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO) by email at [{CONTACT_EMAIL}](mailto:{CONTACT_EMAIL}) or contact us by post at:
+** If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO) by email at [saikoreans.support@gmail.com](mailto:saikoreans.support@gmail.com) or contact us by post at:
 
 unglazed
 
@@ -527,8 +487,8 @@ South Korea
 
 ## 17\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-** Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a [data subject access request](https://app.termly.io/dsar/f5776116-9b9a-421f-bbaf-0e4d26ac2cd5).
+** Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a data subject access request.
 
-[](https://app.termly.io/dsar/f5776116-9b9a-421f-bbaf-0e4d26ac2cd5)
 
-This Privacy Policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/)
+
+This Privacy Policy was created using Termly's Privacy Policy Generator

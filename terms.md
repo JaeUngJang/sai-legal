@@ -12,11 +12,11 @@ We are unglazed ("**Company** ," "**we** ," "**us** ," "**our** "), a company re
 
 We operate the mobile application SAI (the "**App** "), as well as any other related products and services that refer or link to these legal terms (the "**Legal Terms** ") (collectively, the "**Services** ").
 
-You can contact us email at [{CONTACT_EMAIL}](mailto:{CONTACT_EMAIL}), or by mail to 23, Bongeunsa-ro 50-gil, Seoul, Gangnam-gu 06145South Korea.
+You can contact us email at [saikoreans.support@gmail.com](mailto:saikoreans.support@gmail.com), or by mail to 23, Bongeunsa-ro 50-gil, Seoul, Gangnam-gu 06145South Korea.
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("**you** "), and unglazed, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
-We will provide you with prior notice of any scheduled changes to the Services you are using. The modified Legal Terms will become effective upon posting or notifying you by [{CONTACT_EMAIL}](mailto:{CONTACT_EMAIL}), as stated in the email message. By continuing to use the Services after the effective date of any changes, you agree to be bound by the modified terms.
+We will provide you with prior notice of any scheduled changes to the Services you are using. The modified Legal Terms will become effective upon posting or notifying you by [saikoreans.support@gmail.com](mailto:saikoreans.support@gmail.com), as stated in the email message. By continuing to use the Services after the effective date of any changes, you agree to be bound by the modified terms.
 
 The Services are intended for users who are at least 13 years of age. All users who are minors in the jurisdiction in which they reside (generally under the age of 18) must have the permission of, and be directly supervised by, their parent or guardian to use the Services. If you are a minor, you must have your parent or guardian read and agree to these Legal Terms prior to you using the Services.
 
@@ -111,7 +111,7 @@ solely for your personal, non-commercial use.
 
 Except as set out in this section or elsewhere in our Legal Terms, no part of the Services and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
 
-If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: [{CONTACT_EMAIL}](mailto:{CONTACT_EMAIL}). If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
+If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: [saikoreans.support@gmail.com](mailto:saikoreans.support@gmail.com). If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
 
 We reserve all rights not expressly granted to you in and to the Services, Content, and Marks.
 
@@ -188,7 +188,7 @@ We offer a 7-day free trial to new users who register with the Services. The acc
 
 ### Cancellation
 
-You can cancel your subscription at any time by logging into your account. Your cancellation will take effect at the end of the current paid term. If you have any questions or are unsatisfied with our Services, please email us at [{CONTACT_EMAIL}](mailto:{CONTACT_EMAIL}).  
+You can cancel your subscription at any time by logging into your account. Your cancellation will take effect at the end of the current paid term. If you have any questions or are unsatisfied with our Services, please email us at [saikoreans.support@gmail.com](mailto:saikoreans.support@gmail.com).  
 
 ### Fee Changes
 
@@ -373,6 +373,6 @@ In order to resolve a complaint regarding the Services or to receive further inf
 
 South Korea
 
-Phone: ([{CONTACT_EMAIL}](mailto:{CONTACT_EMAIL})
+Phone: ([saikoreans.support@gmail.com](mailto:saikoreans.support@gmail.com)
 
-[](https://app.termly.io/dsar/9d08922a-7d86-4892-b761-6a601c806585)
+
