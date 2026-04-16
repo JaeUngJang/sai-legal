@@ -8,7 +8,7 @@ title: Privacy Policy
 
 This Privacy Notice for unglazed ("**we** ," "**us** ," or "**our** "), describes how and why we might access, collect, store, use, and/or share ("**process** ") your personal information when you use our services ("**Services** "), including when you:
 
-  * Download and use our mobile application (SAI)
+  * Download and use our mobile application (SAI), or any other application of ours that links to this Privacy Notice
 
   * Engage with us in other related ways, including any marketing or events
 
@@ -32,7 +32,7 @@ This Privacy Notice for unglazed ("**we** ," "**us** ," or "**our** "), describe
 
 **What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about your privacy rights.
 
-**How do you exercise your rights?** The easiest way to exercise your rights is by [data subject access request](https://app.termly.io/dsar/f5776116-9b9a-421f-bbaf-0e4d26ac2cd5), or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+**How do you exercise your rights?** The easiest way to exercise your rights is by submitting a [data subject access request](https://app.termly.io/dsar/f5776116-9b9a-421f-bbaf-0e4d26ac2cd5), or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
 Want to learn more about what we do with any information we collect? Review the Privacy Notice in full.
 
@@ -58,21 +58,19 @@ Want to learn more about what we do with any information we collect? Review the 
 
 10\. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
-11\. DO WE COLLECT INFORMATION FROM MINORS?
+11\. WHAT ARE YOUR PRIVACY RIGHTS?
 
-12\. WHAT ARE YOUR PRIVACY RIGHTS?
+12\. CONTROLS FOR DO-NOT-TRACK FEATURES
 
-13\. CONTROLS FOR DO-NOT-TRACK FEATURES
+13\. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
-14\. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+14\. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?
 
-15\. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?
+15\. DO WE MAKE UPDATES TO THIS NOTICE?
 
-16\. DO WE MAKE UPDATES TO THIS NOTICE?
+16\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-17\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-
-18\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+17\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
 ## 1\. WHAT INFORMATION DO WE COLLECT?
 
@@ -286,13 +284,7 @@ _In Short:_**_We aim to protect your personal information through a system of or
 
 We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
 
-## 11\. DO WE COLLECT INFORMATION FROM MINORS?
-
-_In Short:_**_We do not knowingly collect data from or market to children under 18 years of age or the equivalent age as specified by law in your jurisdiction._
-
-We do not knowingly collect, solicit data from, or market to children under 18 years of age or the equivalent age as specified by law in your jurisdiction, nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 or the equivalent age as specified by law in your jurisdiction or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age or the equivalent age as specified by law in your jurisdiction has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18 or the equivalent age as specified by law in your jurisdiction, please contact us at [{CONTACT_EMAIL}](mailto:{CONTACT_EMAIL}).
-
-## 12\. WHAT ARE YOUR PRIVACY RIGHTS?
+## 11\. WHAT ARE YOUR PRIVACY RIGHTS?
 
 _In Short:_**___Depending on your state of residence in the US or in some regions, such as the European Economic Area (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you greater access to and control over your personal information.__ You may review, change, or terminate your account at any time, depending on your country, province, or state of residence._
 
@@ -320,11 +312,15 @@ Upon your request to terminate your account, we will deactivate or delete your a
 
 If you have questions or comments about your privacy rights, you may email us at [{CONTACT_EMAIL}](mailto:{CONTACT_EMAIL}).
 
-## 13\. CONTROLS FOR DO-NOT-TRACK FEATURES
+## 12\. CONTROLS FOR DO-NOT-TRACK FEATURES
 
 ** Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Notice.
 
-California law requires us to let you know how we respond to web browser DNT signals. Because there currently is not an industry or legal standard for recognizing or honoring DNT signals, we do not respond to them at this time., you may have the right to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. More information is provided below._**
+California law requires us to let you know how we respond to web browser DNT signals. Because there currently is not an industry or legal standard for recognizing or honoring DNT signals, we do not respond to them at this time.
+
+## 13\. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+
+_In Short:_**_If you are a resident of California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Rhode Island, Tennessee, Texas, Utah, or Virginia, you may have the right to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. More information is provided below._**
 
 ### Categories of Personal Information We Collect
 
@@ -473,7 +469,7 @@ If you submit the request through an authorized agent, we may need to collect ad
 
 ** California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?"
 
-## 15\. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?
+## 14\. DO OTHER REGIONS HAVE SPECIFIC PRIVACY RIGHTS?
 
 **_**In Short:** You may have additional rights based on the country you reside in._
 
@@ -509,13 +505,13 @@ General enquiries: [{CONTACT_EMAIL}](mailto:{CONTACT_EMAIL})
 
 Complaints (complete POPIA/PAIA form 5): [{CONTACT_EMAIL}](mailto:{CONTACT_EMAIL}) & [{CONTACT_EMAIL}](mailto:{CONTACT_EMAIL})
 
-## 16\. DO WE MAKE UPDATES TO THIS NOTICE?
+## 15\. DO WE MAKE UPDATES TO THIS NOTICE?
 
 **_**In Short:** Yes, we will update this notice as necessary to stay compliant with relevant laws._
 
 We may update this Privacy Notice from time to time. The updated version will be indicated by an updated "Revised" date at the top of this Privacy Notice. If we make material changes to this Privacy Notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Privacy Notice frequently to be informed of how we are protecting your information.
 
-## 17\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+## 16\. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
 ** If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO) by email at [{CONTACT_EMAIL}](mailto:{CONTACT_EMAIL}) or contact us by post at:
 
@@ -527,7 +523,11 @@ Data Protection Officer
 
 Seoul, Gangnam-gu 06145
 
-South Korea, you maywithdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a [data subject access request](https://app.termly.io/dsar/f5776116-9b9a-421f-bbaf-0e4d26ac2cd5).
+South Korea
+
+## 17\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+
+** Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a [data subject access request](https://app.termly.io/dsar/f5776116-9b9a-421f-bbaf-0e4d26ac2cd5).
 
 [](https://app.termly.io/dsar/f5776116-9b9a-421f-bbaf-0e4d26ac2cd5)
 
