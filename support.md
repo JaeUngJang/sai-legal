@@ -4,7 +4,7 @@ title: Support
 
 # Support
 
-We're a small team. We read every message and typically respond within 48 hours.
+I'm building SAI alone. I read every message myself and usually reply within 48 hours.
 
 **Email:** [saikoreans.support@gmail.com](mailto:saikoreans.support@gmail.com)
 
@@ -12,11 +12,11 @@ We're a small team. We read every message and typically respond within 48 hours.
 
 ### My call suddenly disconnected. What happened?
 
-Calls can drop due to a weak Wi-Fi or cellular signal. SAI automatically saves the transcript up to the last three turns, so you won't lose your practice. If disconnections happen repeatedly, please email us with the approximate time of the call and we'll check our logs.
+Calls can drop due to a weak Wi-Fi or cellular signal. SAI automatically saves the transcript up to the last three turns, so you won't lose your practice. If disconnections happen repeatedly, please email me with the approximate time of the call and I'll check the logs.
 
 ### I bought minutes but my balance didn't update.
 
-Minutes typically appear within a few seconds of purchase. If they don't, force-quit the app and relaunch. Still stuck? Email us with your receipt number (visible in your Apple purchase history) and we'll fix it manually.
+Minutes typically appear within a few seconds of purchase. If they don't, force-quit the app and relaunch. Still stuck? Email me with your receipt number (visible in your Apple purchase history) and I'll fix it manually.
 
 ### How do I delete my account?
 
@@ -28,7 +28,7 @@ Refunds are handled by Apple, not by SAI. You can request a refund by visiting [
 
 ### Why can't I see some characters I had before?
 
-We occasionally update our personas. If one you were using is no longer available, it's likely in a quality review. Email us if there's a specific character you want restored and we'll consider it for a future release.
+I occasionally update the character lineup. If one you were using is no longer available, it's likely in a quality review. Email me if there's a specific character you want restored and I'll consider it for a future release.
 
 ---
 
