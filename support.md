@@ -4,7 +4,7 @@ title: Support
 
 # Support
 
-I'm building SAI alone. I read every message myself and usually reply within 48 hours.
+Hello, I am Jae Ung, building SAI alone. I read every message myself and usually reply within 48 hours.
 
 **Email:** [saikoreans.support@gmail.com](mailto:saikoreans.support@gmail.com)
 
