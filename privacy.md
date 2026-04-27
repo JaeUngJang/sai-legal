@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # PRIVACY POLICY
 
-**Last updated April 16, 2026**
+**Last updated April 27, 2026**
 
 This Privacy Notice for unglazed ("**we** ," "**us** ," or "**our** "), describes how and why we might access, collect, store, use, and/or share ("**process** ") your personal information when you use our services ("**Services** "), including when you:
 
@@ -98,6 +98,12 @@ We collect personal information that you voluntarily provide to us when you regi
 
   * _Push Notifications._ We may request to send you push notifications regarding your account or certain features of the application(s). If you wish to opt out from receiving these types of communications, you may turn them off in your device's settings.
 
+  * _Voice and audio data._ When you initiate a voice call with one of our AI characters, we capture audio from your device's microphone for the duration of the call.
+
+  * _Conversation transcripts._ The Korean-language transcripts generated from your voice calls are processed and stored to power post-call learning reviews and saved-expression features.
+
+  * _Profile preferences._ During onboarding and through your profile settings, you provide your Korean proficiency level, learning goals, character preferences, and topic interests.
+
 This information is primarily needed to maintain the security and operation of our application(s), for troubleshooting, and for our internal analytics and reporting purposes.
 
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
@@ -141,6 +147,14 @@ _In Short:_**_We process your information to provide, improve, and administer ou
   * **To determine the effectiveness of our marketing and promotional campaigns.** We may process your information to better understand how to provide marketing and promotional campaigns that are most relevant to you.
 
   * **To save or protect an individual's vital interest.** We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
+
+  * **To power AI voice conversations.** We send your voice audio and the resulting Korean conversation transcript to OpenAI (Realtime API) in real time during an active call to generate the AI character's voice response.
+
+  * **To generate post-call learning reviews.** We send the conversation transcript to OpenAI (GPT-4o) after each call to produce the personalized review shown in the app.
+
+  * **To generate pronunciation audio for saved expressions.** When you tap to listen to a saved expression, we send the text of that expression to OpenAI (tts-1) to generate the audio.
+
+  * **To curate personalized conversation topics.** We send your Korean proficiency level, learning goals, character preferences, and topic interests to Anthropic (Claude) to generate the list of conversation topics shown on your Home screen. No audio or conversation content is sent to Anthropic.
 
 ## 3\. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 
