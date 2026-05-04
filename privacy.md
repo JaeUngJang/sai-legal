@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # PRIVACY POLICY
 
-**Last updated April 27, 2026**
+**Last updated May 4, 2026**
 
 This Privacy Notice for unglazed ("**we** ," "**us** ," or "**our** "), describes how and why we might access, collect, store, use, and/or share ("**process** ") your personal information when you use our services ("**Services** "), including when you:
 
@@ -156,6 +156,10 @@ _In Short:_**_We process your information to provide, improve, and administer ou
 
   * **To curate personalized conversation topics.** We send your Korean proficiency level, learning goals, character preferences, and topic interests to Anthropic (Claude) to generate the list of conversation topics shown on your Home screen. No audio or conversation content is sent to Anthropic.
 
+  * **To measure app install attribution and ad performance.** We use the Meta SDK (Facebook) to measure how users discover SAI and how our ads perform. This includes app installs, session starts, completed registrations, tutorial completions, and purchase events. We do not enable advertiser tracking by default; if you grant App Tracking Transparency permission on iOS, this measurement may be combined with your device advertising identifier (IDFA) to support personalized ad attribution.
+
+  * **To analyze product usage and improve the Services.** We use Mixpanel to record product events (such as session start/complete, expression saves, paywall views, and purchase outcomes) along with a pseudonymous user identifier. This helps us understand which features help users learn Korean and where the experience needs improvement. No voice audio or conversation transcript is sent to Mixpanel.
+
 ## 3\. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 
 **_**In Short:** We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill our contractual obligations, to protect your rights, or to fulfill our legitimate business interests._
@@ -228,6 +232,10 @@ The categories of third parties we may share personal information with are as fo
 
   * Performance Monitoring Tools
 
+  * Analytics Providers (e.g., Firebase Analytics, Mixpanel)
+
+  * Advertising Networks (e.g., Meta/Facebook for app install attribution)
+
 We also may need to share your personal information in the following situations:
 
   * **Business Transfers.** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
@@ -255,6 +263,14 @@ Specific information about how we use such technologies and how you can refuse c
 ### Google Analytics
 
 ** We may share your information with Google Analytics to track and analyze the use of the Services. To opt out of being tracked by Google Analytics across the Services, visit <https://tools.google.com/dlpage/gaoptout>. For more information on the privacy practices of Google, please visit the [Google Privacy & Terms page](https://policies.google.com/privacy).
+
+### Mixpanel
+
+** We use Mixpanel to analyze product usage and improve the Services. Mixpanel receives event data tied to a pseudonymous user identifier. For more information on Mixpanel's privacy practices, see <https://mixpanel.com/legal/privacy-policy/>.
+
+### Meta (Facebook) SDK
+
+** We use the Meta SDK to measure app install attribution and ad performance. Advertiser tracking is disabled by default. If you grant App Tracking Transparency permission on iOS, attribution may include your device advertising identifier (IDFA). You can withdraw this consent at any time in your device's Settings > Privacy & Security > Tracking. For more information on Meta's privacy practices, see <https://www.facebook.com/privacy/policy>.
 
 ## 7\. DO WE OFFER ARTIFICIAL INTELLIGENCE-BASED PRODUCTS?
 
